@@ -1,0 +1,4 @@
+[2026-03-28 23:22:27] ERROR in search_laptops: TypeError — 'method' object is not subscriptable
+[2026-03-28 23:23:40] ERROR in search_laptops: TypeError — 'method' object is not subscriptable
+[2026-03-29 12:31:49] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-03-29 12:31:50] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
